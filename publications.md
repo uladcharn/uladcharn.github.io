@@ -6,7 +6,7 @@ permalink: /Publications/
 
 ## Draft Papers 
 
-Long-Memory AutoRegressive Bandits [(View PDF)](/folder1/STAT_4389_Manuscript.pdf) <br>
+- Long-Memory AutoRegressive Bandits [(View PDF)](/folder1/STAT_4389_Manuscript.pdf) <br>
 
 **Uladzimir Charniauski**, Yao Zheng 
 
@@ -22,7 +22,7 @@ UConn Journal of UConn STAT Student Seminars, **Uladzimir Charniauski**
 
 American Journal of Undergraduate Research, **Uladzimir Charniauski**, Yao Zheng <br>
 
-[https://doi.org/10.33697/ajur.2024.116}{10.33697/ajur.2024.116](https://doi.org/10.33697/ajur.2024.116}{10.33697/ajur.2024.116) <br>
+[https://doi.org/10.33697/ajur.2024.116}{10.33697/ajur.2024.116](https://doi.org/10.33697/ajur.2024.116}{10.33697/ajur.2024.116) 
 
 
 
