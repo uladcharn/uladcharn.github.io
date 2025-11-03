@@ -4,7 +4,7 @@ title: Uladzimir Charniauski
 permalink: /About/
 ---
 # Hello, I’m Ulad! 
-![Portrait of Uladzimir Charniauski](/folder1/portrait.jpg){: style="width:200px; border-radius:50%;"}
+![Portrait of Uladzimir Charniauski](/folder1/portrait.png){: style="width:200px; border-radius:50%;"}
 
 ---
 
