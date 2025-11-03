@@ -4,6 +4,8 @@ title: Uladzimir Charniauski
 permalink: /About/
 ---
 # Hello, I’m Ulad! 
+![Portrait of Uladzimir Charniauski](/folder1/portrait.jpg){: style="width:200px; border-radius:50%;"}
+
 ---
 
 I am a fourth-year student at [University of Connecticut](https://uconn.edu), where I am pursuing a BA in Applied Mathematics with a Computer Science minor and a BA in Statistics with an Economics minor. 
