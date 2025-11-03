@@ -3,5 +3,6 @@ description: uladzimir.charniauski@uconn.edu
 theme: minima
 
 header_pages:
+  - index.md
   - projects.md
   - publications.md
