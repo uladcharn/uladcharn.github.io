@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Uladzimir Charniauski
+permalink: /About/
 ---
 # Hello, I’m Ulad! 
 ---
