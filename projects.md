@@ -4,4 +4,4 @@ title: Projects
 permalink: /Projects/
 ---
 
-# Project
+# Projects
