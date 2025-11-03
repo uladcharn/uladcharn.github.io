@@ -6,6 +6,7 @@ header_pages:
   - index.md
   - projects.md
   - publications.md
+  - awards.md
   - cv.md
 
 nav:
@@ -15,5 +16,7 @@ nav:
     link: /projects/
   - name: "Publications"
     link: /publications/
+  - name: "Awards
+    link: /awards/
   - name: "CV"
-  - link: /folder1/UC_CV.pdf
+    link: /folder1/UC_CV.pdf
