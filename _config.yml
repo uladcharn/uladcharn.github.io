@@ -1,6 +1,7 @@
 title: ""
 description: uladzimir.charniauski@uconn.edu
 theme: minima
+
 header_pages:
   - projects.md
   - publications.md
