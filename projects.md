@@ -10,6 +10,6 @@ permalink: /Projects/
 
 # Class Projects
 
-- Memory-Augmented Variational RNN (MVRNN) [GitHub][https://github.com/uladcharn/fmRNN-fmLSTM]
+- Memory-Augmented Variational RNN (MVRNN) [[GitHub]][https://github.com/uladcharn/fmRNN-fmLSTM]
 
-- Filter Bank-Embedded MRNN (F-MRNN) and MLSTM (F-MLSTM) [GitHub][https://github.com/uladcharn/fmRNN-fmLSTM]
+- Filter Bank-Embedded MRNN (F-MRNN) and MLSTM (F-MLSTM) [[GitHub]][https://github.com/uladcharn/fmRNN-fmLSTM]
