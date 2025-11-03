@@ -8,21 +8,21 @@ permalink: /Publications/
 
 - Long-Memory AutoRegressive Bandits [(View PDF)](/folder1/STAT_4389_Manuscript.pdf) <br>
 
-**Uladzimir Charniauski**, Yao Zheng 
+  **Uladzimir Charniauski**, Yao Zheng 
 
 ## 2025
 
 - **On the Anomaly Detection in Time Series Data with Kernel PCA** [(View PDF)](/folder1/STAT_4389_Manuscript.pdf) <br>
 
-UConn Journal of UConn STAT Student Seminars, **Uladzimir Charniauski** 
+  UConn Journal of UConn STAT Student Seminars, **Uladzimir Charniauski** 
 
 ## 2024
 
 - **Autoregressive Bandits in Near-Unstable or Unstable Environment** [(View PDF)](/folder1/STAT_4389_Manuscript.pdf) <br>
 
-American Journal of Undergraduate Research, **Uladzimir Charniauski**, Yao Zheng <br>
+  American Journal of Undergraduate Research, **Uladzimir Charniauski**, Yao Zheng <br>
 
-[https://doi.org/10.33697/ajur.2024.116}{10.33697/ajur.2024.116](https://doi.org/10.33697/ajur.2024.116}{10.33697/ajur.2024.116) 
+  [https://doi.org/10.33697/ajur.2024.116}{10.33697/ajur.2024.116](https://doi.org/10.33697/ajur.2024.116}{10.33697/ajur.2024.116) 
 
 
 
