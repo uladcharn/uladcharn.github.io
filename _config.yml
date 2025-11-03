@@ -15,3 +15,5 @@ nav:
     link: /projects/
   - name: "Publications"
     link: /publications/
+  - name: "CV(PDF)"
+  - link: /folder1/UC_CV.pdf
