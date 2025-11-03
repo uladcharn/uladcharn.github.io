@@ -12,7 +12,7 @@ permalink: /Publications/
 
 ## 2025
 
-- **On the Anomaly Detection in Time Series Data with Kernel PCA** [(View PDF)](/folder1/STAT_4389_Manuscript.pdf) <br>
+- **On the Anomaly Detection in Time Series Data with Kernel PCA** [(View PDF)](/folder1/STAT_3494W___Paper.pdf) <br>
 
   UConn Journal of UConn STAT Student Seminars, **Uladzimir Charniauski** 
 
