@@ -2,6 +2,12 @@ title: ""
 description: uladzimir.charniauski@uconn.edu
 theme: minima
 
+header_pages:
+  - index.md
+  - projects.md
+  - publications.md
+  - folder1/UC_CV.pdf
+
 nav:
   - name: "Home"
     link: /
