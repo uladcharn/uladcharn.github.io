@@ -4,10 +4,12 @@ title: Projects
 permalink: /Projects/
 ---
 
-# 2025
+# NSF REU 
 
-Memory-Augmented Variational RNN
+- Time Series RAG X (TS-RAGX). *In Progress*
 
-Time Series RAG X (TS-RAGX)
+# Class Projects
 
-Filter Bank-Embedded MRNN and MLSTM 
+- Memory-Augmented Variational RNN (MVRNN) [GitHub][https://github.com/uladcharn/fmRNN-fmLSTM]
+
+- Filter Bank-Embedded MRNN (F-MRNN) and MLSTM (F-MLSTM) [GitHub][https://github.com/uladcharn/fmRNN-fmLSTM]
