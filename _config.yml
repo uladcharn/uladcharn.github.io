@@ -2,7 +2,10 @@ title: ""
 description: uladzimir.charniauski@uconn.edu
 theme: minima
 
-header_pages:
-  - index.md
-  - projects.md
-  - publications.md
+nav:
+  - name: "Home"
+    link: /
+  - name: "Projects"
+    link: /projects/
+  - name: "Publications"
+    link: /publications/
