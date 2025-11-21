@@ -16,10 +16,12 @@ Beyond my classic academic journey, I am actively researching novel Machine Lear
 
 Traditionally, fractionally-integrated time series models (ex. ARFIMA, FIGARCH, etc.) are widely used in modeling applications for data exhibiting long-memory across the data entrees. On the other hand, many ML methods often struggle to capture such complex temporal dynamics, posing new statistical and computational challenges, and I aim to develop novel learning methods with capacities for handling "long-memoryness" along with statistical theory to address this fundamental limitation. 
 
-**Feel free to reach out to me via**
+Feel free to reach out to me via my [email](uladzimir.charniauski@uconn.edu). 
+
+**Find me at**
 
 - [LinkedIn](https://www.linkedin.com/in/uladzimir-charniauski-900b7a246/)
-- [Email](uladzimir.charniauski@uconn.edu)
+- [Google Scholar](https://scholar.google.com/citations?hl=fr&authuser=1&user=MsjY5YMAAAAJ)
 
 ---
 
