@@ -7,7 +7,7 @@ permalink: /awards/
 # Research Grants
 
 - NSF REU: Hierarchical Deep Reinforcement Learning for Routing in Mobile Wireless Networks <br>
-  September, 2025. University of Connecticut
+  University of Connecticut. September 2025
 
 # Academic Awards
 
