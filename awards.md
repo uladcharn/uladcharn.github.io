@@ -11,13 +11,17 @@ permalink: /awards/
 
 # Academic Awards
 
-- National Honorary Mathematics Society, Pi Mu Epsilon <br>
-  May, 2025. University of Connecticut
-- 2024 New England Scholar <br>
-  April, 2025. University of Connecticut
-- Fall 2024 University of Connecticut CLAS Dean's List <br>
-  December, 2024. University of Connecticut
-- Spring 2024 University of Connecticut CLAS Dean's List <br>
-  May, 2024. University of Connecticut
-- 2023 New England Scholar <br>
-  April, 2024. University of Connecticut
+**Academic Honors**
+
+- New England Scholar - 2023, 2024 <br>
+  University of Connecticut, April 2025 and April 2024
+
+**Dean's List***
+- CLAS Dean's List, Fall 2024 and Spring 2024 <br>
+  University of Connecticut
+
+**Honor Societies**
+
+- Pi Mu Epsilon (National Honorary Mathematics Society) <br>
+  University of Connecticut, May 2025
+
