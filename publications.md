@@ -6,19 +6,19 @@ permalink: /Publications/
 
 ## Draft Papers 
 
-- Long-Memory AutoRegressive Bandits [(View PDF)](/folder1/STAT_4389_Manuscript.pdf) <br>
+- Long-Memory AutoRegressive Bandits [[PDF]](/folder1/RESEARCH___ARLM_UCB__NeurIPS___DRAFT_.pdf) <br>
 
   **Uladzimir Charniauski**, Yao Zheng 
 
 ## 2025
 
-- On the Anomaly Detection in Time Series Data with Kernel PCA [(View PDF)](/folder1/STAT_3494W___Paper.pdf) <br>
+- On the Anomaly Detection in Time Series Data with Kernel PCA [[PDF]](/folder1/STAT_3494W___Paper.pdf) <br>
 
   UConn Journal of UConn STAT Student Seminars, **Uladzimir Charniauski** 
 
 ## 2024
 
-- Autoregressive Bandits in Near-Unstable or Unstable Environment [(View PDF)](/folder1/STAT_4389_Manuscript.pdf) <br>
+- Autoregressive Bandits in Near-Unstable or Unstable Environment [[PDF]](/folder1/STAT_4389_Manuscript.pdf) <br>
 
   American Journal of Undergraduate Research, **Uladzimir Charniauski**, Yao Zheng <br>
 
