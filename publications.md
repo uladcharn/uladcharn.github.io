@@ -6,7 +6,7 @@ permalink: /Publications/
 
 ## Draft Papers 
 
-- Long-Memory AutoRegressive Bandits [[PDF]](/folder1/RESEARCH___ARLM_UCB__NeurIPS___DRAFT_.pdf) <br>
+- Long-Memory AutoRegressive Bandits [[PDF]](/folder1/RESEARCH___ARLM_UCB__DRAFT_.pdf) <br>
 
   **Uladzimir Charniauski**, Yao Zheng 
 
