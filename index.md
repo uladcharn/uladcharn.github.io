@@ -18,9 +18,7 @@ Beyond my classic academic journey, I am actively researching novel **Machine Le
 **Find me at**
 
 - [LinkedIn](https://www.linkedin.com/in/uladzimir-charniauski-900b7a246/)
-- 
-- [Google Scholar](https://scholar.google.com/citations?hl=fr&authuser=1&user=MsjY5YMAAAAJ)
-- 
 - [GitHub](https://github.com/uladcharn)
+- [Google Scholar](https://scholar.google.com/citations?hl=fr&authuser=1&user=MsjY5YMAAAAJ)
 ---
 
