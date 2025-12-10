@@ -14,7 +14,7 @@ permalink: /Projects/
 
 # Class Projects
 
-- Memory-Augmented Variational RNN (MVRNN) [[GitHub]](https://github.com/uladcharn/MVRNN) [[PDF]](/folder1/CSE 5825 - Project 3 (final).pdf) <br> 
+- Memory-Augmented Variational RNN (MVRNN) [[GitHub]](https://github.com/uladcharn/MVRNN) [[PDF]](/folder1/CSE_5825___Project_3__final_.pdf) <br> 
 
   **Description:** This project presents **Memory-Augmented Variational RNN (MVRNN)**, a recurrent network with the cross-modified cell structure design of existing [Memory-Augmented RNN (MRNN)](https://arxiv.org/pdf/2006.03860) by Zhao et al. and [Variational RNN (VRNN)](https://arxiv.org/pdf/1506.02216) by Chung et al. While these approaches address distinct limitations of conventional recurrent networks, each exhibits deficiencies that the other addresses: neither alone can capture the full complexity of temporal data with both long-range dependence and high variability across input data.
 
