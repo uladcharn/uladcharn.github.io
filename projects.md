@@ -6,7 +6,7 @@ permalink: /Projects/
 
 # Lab Research
 
-- **TS-RAG X: Historical Context-Enhanced Retrieved Augmentation Generation for Time Series Foundation Models.** *In Progress* <br>
+- **TS-RAG X: Historical Context-Enhanced Retrieved Augmentation Generation for Time Series Foundation Models.** <br>
 
   **Description:** This project expands the capacity of [TS-RAG](https://arxiv.org/pdf/2503.07649) by Ning et al., a retrieval-augmented generation framework for enhancing the generalization and interpretability of Time Series Foundation Models (TSFMs), by introducing the retrieved historical contexts in the augmentation module. TS-RAG X enables retrieval of semantically relevant segments from a dedicated knowledge base through incorporating both context windows and their associated future horizons.
 
@@ -20,6 +20,8 @@ permalink: /Projects/
   **Description:** This project presents **Memory-Augmented Variational RNN (MVRNN)**, a recurrent network with the cross-modified cell structure design of existing [Memory-Augmented RNN (MRNN)](https://arxiv.org/pdf/2006.03860) by Zhao et al. and [Variational RNN (VRNN)](https://arxiv.org/pdf/1506.02216) by Chung et al. While these approaches address distinct limitations of conventional recurrent networks, each exhibits deficiencies that the other addresses: neither alone can capture the full complexity of temporal data with both long-range dependence and high variability across input data.
 
   The proposed neural network is capable of capturing long-range dependence and simultaneously modeling complex multimodal distributions for processing latent variabilities emerging in real-world data. The proposed MVRNN demonstrates a performative advantage from modeling long memory patterns and latent variability across data, outperforming MRNN baselines by approximately 7-10% on average across several stock price volatility datasets.
+
+  I am fortunate to continue the development of this project under the guidance of [Professor Trevor Harris](https://trevor-harris.github.io) in efforts to publish this study. 
 
 - **Filter Bank-Embedded MRNN (F-MRNN) and MLSTM (F-MLSTM)** [[GitHub]](https://github.com/uladcharn/fmRNN-fmLSTM) [[PDF]](/folder1/STAT_4195_Final_Project.pdf) <br>
   *STAT 4195: Deep Learning, Spring 2025*
