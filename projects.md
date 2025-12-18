@@ -43,13 +43,13 @@ permalink: /Projects/
 
   This project extends the definition of memory-augmented recurrent networks by introducing Filter Bank-Embedded MRNN (F-MRNN) and MLSTM (F-MLSTM) requiring the model to process the data through multiple long memory filters. The proposed approach uplevels the original ability of original MRNN/MLSTM to process the sequences with long-range dependence by allowing these networks to learn the best combination of filters to use for data processing.
 
-  - **On the Anomaly Detection in Time Series Data with Kernel PCA** [[GitHub]](https://github.com/uladcharn/PCA-KPCA-Anomaly-Detection) <br>
-    *CSE 5835: Introduction to Machine Learning, Spring 2025*
+- **On the Anomaly Detection in Time Series Data with Kernel PCA** [[GitHub]](https://github.com/uladcharn/PCA-KPCA-Anomaly-Detection) [[PDF]](/folder1/STAT_3494W___Paper.pdf) <br>
+  *CSE 5835: Introduction to Machine Learning, Spring 2025*
 
-    **Description:** **Kernel Principal Component Analysis (Kernel PCA)** is a non-linear extension of PCA. Kernel-based methods better model data produced by nonlinear processes by mapping data on higher-dimensional spaces using kernel functions. This feature enables Kernel PCA to capture the complex, nonlinear relationships inherent in many observed real-world data.
+  **Description:** **Kernel Principal Component Analysis (Kernel PCA)** is a non-linear extension of PCA. Kernel-based methods better model data produced by nonlinear processes by mapping data on higher-dimensional spaces using kernel functions. This feature enables Kernel PCA to capture the complex, nonlinear relationships inherent in many observed real-world data.
 
-    We evaluate Kernel PCA against standard PCA on three real-world datasets with documented anomalies: circuit water measurements, fluid leak detection, and rotor imbalance monitoring. Results demonstrate that Kernel PCA achieves modest but consistent performance gains over linear PCA for anomaly detection in these nonlinear time series contexts, suggesting that kernel-based dimensionality reduction can effectively capture the complex temporal patterns that characterize anomalous behavior.
+  We evaluate Kernel PCA against standard PCA on three real-world datasets with documented anomalies: circuit water measurements, fluid leak detection, and rotor imbalance monitoring. Results demonstrate that Kernel PCA achieves modest but consistent performance gains over linear PCA for anomaly detection in these nonlinear time series contexts, suggesting that kernel-based dimensionality reduction can effectively capture the complex temporal patterns that characterize anomalous behavior.
 
-    This work was published in the Journal of _UConn STAT Student Seminars_ (Spring 2025).
+  This work was published in the Journal of _UConn STAT Student Seminars_ (Spring 2025).
 
   
