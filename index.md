@@ -17,7 +17,7 @@ Here is my <a href="/folder1/UC_CV_grad_schools.pdf" target="_blank">Curriculum 
 
 My research interest is **machine learning methods for temporal data**. The central theme of my research is to develop novel **reinforcement learning (RL)** and **deep learning (DL)** methods and frameworks for operating with temporal data that express long-range dependence, or long memory, across observations. Traditionally, fractionally-integrated time series models (ex. ARFIMA, FIGARCH, etc.) are widely used in modeling applications for data exhibiting long memory across the data entrees. On the other hand, many ML methods often struggle to capture such complex temporal dynamics, posing new statistical and computational challenges. I aim to develop novel learning methods capable of modeling long memory patterns across observations in data, along with the supporting statistical theory to address this fundamental limitation. 
 
-# Selected Preprints/Publications [/publications/]([Full Publications])
+# Selected Preprints/Publications
 
 - Long-Memory AutoRegressive Bandits [[PDF]](/folder1/RESEARCH___ARLM_UCB__DRAFT_.pdf) <br>
 
