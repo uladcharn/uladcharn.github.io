@@ -8,7 +8,7 @@ permalink: /Projects/
 
 - **AutoRegressive Moving-Average Bandits**
 
-  **Description:** The [AutoRegressive Bandits (ARB)](https://proceedings.mlr.press/v238/bacchiocchi24a/bacchiocchi24a.pdf) setting by Bacchiocchi et. al., in which the observed reward is governed by an autoregressive process of finite order,  We introduce the **AutoRegressive Moving-Average (ARMA) bandit (ARMAB)** problem, extending the ARB framework to reward processes with temporal dependencies contaminated with colored noise. Unlike classical stochastic bandits where rewards are i.i.d., ARMA bandits model each arm's rewards as an ARMA(_p,q_) time series, combining autoregressive dynamics of order _p_ with moving-average components of order _q_. This captures both momentum effects—where past rewards influence current observations—and shock persistence from past noise terms. The framework generalizes both i.i.d. bandits (_p=q=0_) and autoregressive bandits (_q=0_).
+  **Description:** The [AutoRegressive Bandits (ARB)](https://proceedings.mlr.press/v238/bacchiocchi24a/bacchiocchi24a.pdf) setting by Bacchiocchi et. al., in which the observed reward is governed by an autoregressive process of finite order,  We introduce the **AutoRegressive Moving-Average bandit (ARMAB)** setting, extending the ARB framework to reward processes with temporal dependencies contaminated with colored noise. Unlike classical stochastic bandits where rewards are i.i.d., ARMABs model each arm's rewards as an ARMA(_p,q_) process, combining autoregressive dynamics of order _p_ with moving-average components of order _q_. This captures both momentum effects—where past rewards influence current observations—and shock persistence from past noise terms. The framework generalizes both i.i.d. bandits (_p=q=0_) and autoregressive bandits (_q=0_).
 
 - **Memory-Augmented Variational RNN (MVRNN)** 
 
@@ -39,5 +39,14 @@ permalink: /Projects/
   **Description:** The [MRNN/MLSTM](https://arxiv.org/pdf/2006.03860) networks by Zhao et al. have significantly improved the ability of recurrent networks to handle the long-range dependence in data with their novel long memory filter component, whose weights decay at a polynomial rate. Signal processing techniques, such as filter banks, have been effectively used in time series analysis to extract relevant features on varying frequency scales.
 
   This project extends the definition of memory-augmented recurrent networks by introducing Filter Bank-Embedded MRNN (F-MRNN) and MLSTM (F-MLSTM) requiring the model to process the data through multiple long memory filters. The proposed approach uplevels the original ability of original MRNN/MLSTM to process the sequences with long-range dependence by allowing these networks to learn the best combination of filters to use for data processing.
+
+  - **On the Anomaly Detection in Time Series Data with Kernel PCA**
+    *CSE 5835: Introduction to Machine Learning, Spring 2025*
+
+    **Description:** **Kernel Principal Component Analysis (Kernel PCA)** is a non-linear extension of PCA. Kernel-based methods better model data produced by nonlinear processes by mapping data on higher-dimensional spaces using kernel functions. This feature enables Kernel PCA to capture the complex, nonlinear relationships inherent in many observed real-world data.
+
+    We evaluate Kernel PCA against standard PCA on three real-world datasets with documented anomalies: circuit water measurements, fluid leak detection, and rotor imbalance monitoring. Results demonstrate that Kernel PCA achieves modest but consistent performance gains over linear PCA for anomaly detection in these nonlinear time series contexts, suggesting that kernel-based dimensionality reduction can effectively capture the complex temporal patterns that characterize anomalous behavior.
+
+    This work was published in the Journal of _UConn STAT Student Seminars_ (Spring 2025).
 
   
