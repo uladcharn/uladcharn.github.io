@@ -4,7 +4,7 @@ title: Publications
 permalink: /Publications/
 ---
 
-## Draft Papers 
+## Preprints 
 
 - Long-Memory AutoRegressive Bandits [[PDF]](/folder1/RESEARCH___ARLM_UCB__DRAFT_.pdf) <br>
 
