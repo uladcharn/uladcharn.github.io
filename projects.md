@@ -14,7 +14,7 @@ permalink: /Projects/
 
   **Description:** This project presents **Memory-Augmented Variational RNN (MVRNN)**, a recurrent network with the cross-modified cell structure design of existing [Memory-Augmented RNN (MRNN)](https://arxiv.org/pdf/2006.03860) by Zhao et al. and [Variational RNN (VRNN)](https://arxiv.org/pdf/1506.02216) by Chung et al. While these approaches address distinct limitations of conventional recurrent networks, each exhibits deficiencies that the other addresses: neither alone can capture the full complexity of temporal data with both long-range dependence and high variability across input data. 
 
-This research originated from my final project in _CSE 5825: Bayesian Machine Learning (Fall 2025)_, where I developed the MVRNN method. Recognizing the potential to apply this approach to a broader range of tasks and validate it through more rigorous statistical methodologies, I chose to continue this work beyond the course. I am fortunate to continue the development of this project under the guidance of [Professor Trevor Harris](https://trevor-harris.github.io) in efforts to publish this study.
+  This research originated from my final project in _CSE 5825: Bayesian Machine Learning (Fall 2025)_, where I developed the MVRNN method. Recognizing the potential to apply this approach to a broader range of tasks and validate it through more rigorous statistical methodologies, I chose to continue this work beyond the course. I am fortunate to continue the development of this project under the guidance of [Professor Trevor Harris](https://trevor-harris.github.io) in efforts to publish this study.
 
 # Lab Research
 
