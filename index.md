@@ -19,7 +19,7 @@ My research interest is **machine learning methods for temporal data**. The cent
 
 # Selected Preprints/Publications
 
-- Long-Memory AutoRegressive Bandits [[PDF]](/folder1/RESEARCH___ARLM_UCB__DRAFT_.pdf) <br>
+- Long-Memory AutoRegressive Bandits (Preprint) [[PDF]](/folder1/RESEARCH___ARLM_UCB__DRAFT_.pdf) <br>
 
   **Uladzimir Charniauski**, Yao Zheng 
 
