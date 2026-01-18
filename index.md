@@ -31,7 +31,7 @@ My research interest is **machine learning methods for temporal data**. The cent
 
 # Contacts
 
-**Email:** [uladzimir.charniauski@uconn.edu](uladzimir.charniauski@uconn.edu)
+**Email:** [uladzimir.charniauski@gmail.com](uladzimir.charniauski@gmail.com)
 
 **Find me at**
 - [LinkedIn](https://www.linkedin.com/in/uladzimir-charniauski-900b7a246/)
