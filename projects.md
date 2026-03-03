@@ -4,7 +4,7 @@ title: Projects
 permalink: /Projects/
 ---
 
-# Ongoing Independent Research 
+# Independent Research 
 
 - **AutoRegressive Moving-Average Bandits** <br>
   _In Progress_
@@ -18,10 +18,10 @@ permalink: /Projects/
 
   This research originated from my final project in _CSE 5825: Bayesian Machine Learning (Fall 2025)_, where I developed the MVRNN method. Recognizing the potential to apply this approach to a broader range of tasks and validate it through more rigorous statistical methodologies, I chose to continue this work beyond the course. I am fortunate to continue the development of this project under the guidance of [Professor Trevor Harris](https://trevor-harris.github.io) in efforts to publish this study.
 
-# Ongoing Lab Research
+# Lab Research
 
 - **TS-RAG X: Historical Context-Enhanced Retrieved Augmentation Generation for Time Series Foundation Models.** <br>
-  _In Progress_
+  _June 2025-December 2025_
 
   **Description:** This project expands the capacity of [TS-RAG](https://arxiv.org/pdf/2503.07649) by Ning et al., a retrieval-augmented generation framework for enhancing the generalization and interpretability of Time Series Foundation Models (TSFMs), by introducing the retrieved historical contexts in the augmentation module. TS-RAG X enables retrieval of semantically relevant segments from a dedicated knowledge base through incorporating both context windows and their associated future horizons.
 
