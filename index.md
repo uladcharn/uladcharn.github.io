@@ -10,7 +10,7 @@ title: Uladzimir Charniauski
 
 # About
 
-I am a graduate of [University of Connecticut](https://uconn.edu), where I received B.A. in Applied Mathematics with a minor in Computer Science and B.A. in Statistics with a minor in Economics. <br>
+I am an incoming Statistics PhD students at a [University of Connecticut, Department of Statistics]([https://uconn.edu](https://statistics.uconn.edu)). Before that, I graduated [University of Connecticut](https://uconn.edu), Cum Laude with B.A. in Applied Mathematics with a minor in Computer Science and B.A. in Statistics with a minor in Economics. <br>
 Here is my <a href="/folder1/UC_CV_grad_schools.pdf" target="_blank">Curriculum Vitae</a>.
 
 # Research Interests
