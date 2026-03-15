@@ -29,6 +29,11 @@ permalink: /Projects/
 
 # Class Projects/Independent Works
 
+- **Demographic Bias in AI Recruitment: Measuring the ’Stereotyping Tax’ in SLMs** [[GitHub]](https://github.com/uladcharn/AI_Bias_Stereotyping_Analysis) <br>
+  *Indepependent work, February 2026 - Present*
+
+  **Description:** This project involves the infrastructure for auditing geographic and demographic disparities in Small Language Models (SLMs). The framework utilizes llama.cpp for high-performance CPU inference on macOS/Unix-based systems, specifically optimized for **GGUF-quantized models** such as Phi-3.5 Mini, Llama 3.2, and Gemma 3.
+
 - **Interpretable Gradient Boosting Models under Data Distribution Shift** [[GitHub]](https://github.com/uladcharn/Interpretable_Gradient_Boosting__Under_Data_distribution_Shift) <br>
   *Indepependent work, February 2026*
 
