@@ -27,7 +27,14 @@ permalink: /Projects/
 
   I am fortunate to conduct this project under the guidance of [Professor Dongjin Song](https://songdj.github.io) funded through an NSF Research Experience for Undergraduates (REU) supplement.
 
-# Class Projects
+# Class Projects/Independent Works
+
+- **Interpretable Gradient Boosting Models under Data Distribution Shift** [[GitHub]](https://github.com/uladcharn/Interpretable_Gradient_Boosting__Under_Data_distribution_Shift) <br>
+  *Indepependent work, February 2026*
+
+  **Description:** This project contains the implementation and experimental framework for evaluating interpretable gradient boosting models (XGBoost, LightGBM, Gradient Boosting) and classical and black-box classification methods (Logistic Regression, Random Forest) in the presence of data distribution shifts across multiple demographic sub-categories represented in Telco Customer Churn dataset. The study focuses on quantifying the impact of Distribution and Susbpopulation shift on model performance and interpretability and analyzing SHAP-stability and Fairness-Bias across presented models when tested under the distribution shifted data.
+
+  The project demonstrates about 90% classification accuracy for gradient boosting methods across classical methods on underrepresented demographics, whereas classical methods like Logistic Regression or Random Forest tended to struggle with predicting churn rates for such categories.
 
 - **Memory-Augmented Variational RNN (MVRNN)** [[GitHub]](https://github.com/uladcharn/MVRNN) [[PDF]](/folder1/CSE_5825___Project_3__final_.pdf) <br>
   *CSE 5825: Bayesian Machine Learning, Fall 2025*
